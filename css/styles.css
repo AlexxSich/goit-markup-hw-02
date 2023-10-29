@@ -35,7 +35,7 @@ ul {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.082em;
+    letter-spacing: 0.02em;
 }
 
 .menu-nav-item:hover {
@@ -43,6 +43,10 @@ ul {
 }
 
 .menu-nav-item:active {
+    color: #404BBF;
+}
+
+.menu-nav-item:focus {
     color: #404BBF;
 }
 
@@ -87,13 +91,14 @@ ul {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    /* padding: 16px 32px 16px 32px; */
-    border: none;
-    /* border-radius: 4px; */
     cursor: pointer;
 }
 
 .first-section-button:hover {
+    background-color: #404BBF;
+}
+
+.first-section-button:focus {
     background-color: #404BBF;
 }
 
