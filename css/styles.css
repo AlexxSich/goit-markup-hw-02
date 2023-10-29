@@ -1,0 +1,108 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #000;
+    background-color: #FFFFFF;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+/* logo */
+.logo-web {
+    color: #4D5AE5;
+    font-family: "Raleway";
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    text-transform: uppercase;
+}
+
+.logo-studio {
+    color: #2E2F42;
+    font-family: "Raleway";
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    text-transform: uppercase;
+
+}
+
+.menu-nav-item {
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.menu-nav-item:hover {
+    color: #404BBF;
+}
+
+
+.menu-nav-address {
+    color: #434455;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.menu-nav-address:hover {
+    color: #404BBF;
+}
+
+/* Section 0 */
+section h1 {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    text-align: center;
+}
+
+.section-0 {
+    background-color: #2E2F42;
+}
+
+button {
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+    padding: 16px 32px 16px 32px;
+    border: none;
+    border-radius: 4px;
+}
+
+.button1:hover {
+    background-color: #404BBF;
+}
+
+/* section 1 Our Goals */
+.our-goals {
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+p {
+    color: #434455;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+}
+
+h2 {
+    color: #2E2F42;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+}
